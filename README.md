@@ -1,8 +1,9 @@
 # Object-Detection-using-YOLO
 
 
-The goal is to display the object(s) contained in an image when any user inputs an image into it. provided that the object is contained in the dataset. For this we have employed pre-trained YOLO algorithm to detect and locate. 
-The Tools used for this MATLAB, Deep Learning Toolbox, Computer Vision ToolBox.
+The goal is to display the object(s) contained in an image when any user inputs an image into it provided that the object is contained in the dataset. For this we have employed pre-trained YOLO algorithm to detect and locate  the object. 
+
+The Tools used for this are MATLAB, Deep Learning Toolbox, Computer Vision ToolBox.
 
 This repository implements three variants of the YOLO v2 object detector:
 
@@ -12,8 +13,11 @@ This repository implements three variants of the YOLO v2 object detector:
      
 The pretrained networks are trained to detect different object categories including person, car, traffic light, etc. These networks are trained using either COCO 2017 [2] or PASCAL VOC [3] datasets which have 80 and 20 different object categories, respectively.
 
-The overview for the structure is as follows 
+The overview for the structure is as follows:
+
+
 ![Capture](https://user-images.githubusercontent.com/64723465/192130251-560bc047-5055-40f0-b45a-a2f1474230a1.PNG)
+
 
 Results:
 
